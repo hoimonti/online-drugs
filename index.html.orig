@@ -65,7 +65,10 @@
 						<span class="icon icon-bar"></span>
 						<span class="icon icon-bar"></span>
 						<span class="icon icon-bar"></span>
+<<<<<<< HEAD
 						<span class="icon icon-bar"></span>
+=======
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
 					</button>
 					<a href="#" class="navbar-brand">Online Demand Drugs</a>
 				</div>
@@ -75,7 +78,11 @@
 						<li><a href="#search">SEARCH</a></li>
 						<li><a href="#service">SERVICE</a></li>
 						<li><a href="#contact">CONTACT</a></li>
+<<<<<<< HEAD
 						<li><a href="#suggest">MEDICINE SUGGUESTION</a></li>
+=======
+						<li><a href="#team">MEDICINE SUGGUESTION</a></li>
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
 						
 					</ul>
 				</div>
@@ -116,7 +123,11 @@
 								<h3 class="media-heading">Medicine Name</h3>
 							</div>
 							<div class="media-body">
+<<<<<<< HEAD
 								<p><frame><textarea name="Medicine Name" cols="0.35" rows="1"></textarea>
+=======
+								<p><frame><textarea name="Medicine Name" cols="1" rows="1"></textarea>
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
 </p>
 							</div>
 						</div>
@@ -129,6 +140,7 @@
 								</div>
 								<h3 class="media-heading">Area</h3>
 							</div>
+<<<<<<< HEAD
 							<div class="media-heading-wrapper">
 							
 							 <select>
@@ -158,6 +170,17 @@
 								<h3 class="media-heading-wrapper">Search here</h3> 
 								
 								<button class="btn1" type="button">Search</button>
+=======
+							<div class="media-body">
+								<p><frame><textarea name="Medicine Name" cols="1" rows="1"></textarea></p>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 col-sm-6 col-xs-26 wow fadeInRight" data-wow-offset="50" data-wow-delay="0.6s">
+						<div class="media">
+							<div class="media-heading-wrapper">
+								<div class="media-object pull-left">
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
 									
 								</div>
 							
@@ -169,15 +192,24 @@
 		</section>
 		<!-- end search -->
 
+<<<<<<< HEAD
     	
 		
 
     	<!-- start suggestion -->
     	<section id="suggest">
+=======
+    	<!-- start about -->
+		
+
+    	<!-- start team -->
+    	<section id="Medicine Suggestion">
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
     		<div class="container">
     			<div class="row">
     				<div class="col-md-12">
     					<h2 class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s"><span>Medicine </span> Sugguestion</h2>
+<<<<<<< HEAD
     			</div>
 					
     				
@@ -194,6 +226,52 @@
     		</div>
     	</section>
     	<!-- end suggestion -->
+=======
+    				</div>
+    				<div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="1.3s">
+    					<div class="team-wrapper">
+    						<img src="images/member-1.jpg" class="img-responsive" alt="team img 1">
+    							<div class="team-des">
+    								<h4>Hoimonti Debnath</h4>
+    								<span>Designer</span>
+    							</div>
+    					</div>
+    				</div>
+    				<div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="1.6s">
+    					<div class="team-wrapper">
+    						<img src="images/member-1.jpg" class="img-responsive" alt="team img 2">
+    							<div class="team-des">
+    								<h4>Bibi Ayesha Sonia</h4>
+    								<span>Developer</span>
+    								
+    							</div>
+    					</div>
+    				</div>
+    				<div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="1.3s">
+    					<div class="team-wrapper">
+    						<img src="images/member-1.jpg" class="img-responsive" alt="team img 3">
+    							<div class="team-des">
+    								<h4>Nishat Taslim Arju</h4>
+    								<span>Developer</span>
+    						
+    							</div>
+    					</div>
+    				</div>
+    				<div class="col-md-3 col-sm-6 col-xs-12 wow fadeIn" data-wow-offset="50" data-wow-delay="1.6s">
+    					<div class="team-wrapper">
+    						<img src="images/member-1.jpg" class="img-responsive" alt="team img 4">
+    							<div class="team-des">
+    								<h4>Sadia Akhter</h4>
+    								<span>Human</span>
+    					
+    							</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</section>
+    	<!-- end team -->
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
 
     	<!-- start service -->
     	<section id="service">
@@ -210,12 +288,20 @@
     				<div class="col-md-4 active wow fadeIn" data-wow-offset="50" data-wow-delay="0.9s">
     					<i class="fa fa-thumbs-up"></i>
     					<h4>Quick and fast</h4>
+<<<<<<< HEAD
     					<p>Fastest site to provide your medicine.</p>
+=======
+    					<p>.</p>
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
     				</div>
     				<div class="col-md-4 wow fadeIn" data-wow-offset="50" data-wow-delay="0.6s">
     					<i class="fa fa-gittip"></i>
     					<h4>Ready to help</h4>
+<<<<<<< HEAD
     					<p> Helping You is our concern.</p>
+=======
+    					<p>.</p>
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
     				</div>
     			</div>
     		</div>
@@ -235,10 +321,13 @@
    						  	
                             <label>EMAIL</label>
     						<input name="email" type="email" class="form-control" id="email">
+<<<<<<< HEAD
 							
 							 <label>PHONE NUMBER</label>
 							 <input name="phonenumber" type="text" class="form-control" id="number">
                            
+=======
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
    						  	
                             <label>MESSAGE</label>
     						<textarea name="message" rows="4" class="form-control" id="message"></textarea>
@@ -249,7 +338,11 @@
     				<div class="col-md-6 col-sm-6 col-xs-12 wow fadeInRight" data-wow-offset="50" data-wow-delay="0.6s">
     					<address>
     						<p class="address-title">OUR CONTACT</p>
+<<<<<<< HEAD
     						<span>Contact us if any Emergency.</span>
+=======
+    						<span>.</span>
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
     						<p><i class="fa fa-phone"></i> +08801622723832</p>
     						<p><i class="fa fa-envelope-o"></i> hoimontinath@gmail.com</p>
     					
@@ -277,7 +370,11 @@
     				<div class="col-md-6 col-sm-6 col-xs-12 wow fadeInRight" data-wow-offset="50" data-wow-delay="0.6s">
     					<address>
     						<p class="address-title">OUR WORDS</p>
+<<<<<<< HEAD
     						<span>We are here to help in the fast and simpliest way.</span>
+=======
+    						<span>.</span>
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
     						<p><i class="fa fa-phone"></i> +08801622713832</p>
     						<p><i class="fa fa-envelope-o"></i> hoimontinath@gmail.com.com</p>
     						
@@ -299,7 +396,11 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <p class="wow bounceIn" data-wow-offset="50" data-wow-delay="0.3s">
+<<<<<<< HEAD
                        Online &copy; Copyright 2016. Designed By Hoimonti Debnath</p>
+=======
+                        Awesome &copy; Copyright 2016. Designed By Hoimonti Debnath</p>
+>>>>>>> 180bf8836d7f073b7da0ef3b9a85d4efb1dbfc4f
                     </div>
                 </div>
             </div>
